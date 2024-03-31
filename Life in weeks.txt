@@ -1,0 +1,16 @@
+#실제로 90살까지 산다면 실제로 며칠, 몇 주, 몇 달이 남았는지 알려주는 프로그램
+#전제: 1년은 365, 52주 12개월. 윤년이 있어 실제로는 그것보다 좀 많지만, 여기서는 이렇게 전제함.
+
+age = input("What is your current age? ")
+
+age_integer = int(age)
+
+years_remaining = 90-age_integer
+days_remaining = years_remaining*365
+weeks_remaining = years_remaining*52
+months_remaining = years_remaining*12
+
+print(f"You have {days_remaining} days, {weeks_remaining} weeks, and {months_remaining} months left.")
+
+result = f"You have {days_remaining} days, {weeks_remaining} weeks, and {months_remaining} months left."
+print(result)
