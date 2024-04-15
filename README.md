@@ -41,3 +41,6 @@ Python을 활용한 미니 프로젝트 모음
 
 **12. Rock-Scissors-Paper Game** : 컴퓨터와 가위바위보 하기 🔗[코드보기](https://github.com/Son-Hyemin/Python_mini_project/blob/c5659a661da4f9005185eed15412e91ebeeb89e4/Rock-Scissors-Paper%20Game.py)
 
+
+**13. Password Generator** : 비밀번호 생성기 🔗[코드보기](https://github.com/Son-Hyemin/Python_mini_project/blob/1c97371d9d8d08824eadbd16626752ab9ce3d4a6/Password%20Generator.py)
+
